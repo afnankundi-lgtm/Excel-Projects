@@ -34,8 +34,8 @@ An Excel-based data analytics project that transforms **raw data into clean data
 ## 📁 Project Files
 * `Revenue_Dashboard.xlsx` — Final Excel dashboard
 * `Excel_Revenue_Dashboard.pdf` — Complete project documentation
-* * `Revenue_Dashboard.png` — Dashboard preview
-* * `Raw_Data.xlsx` — Original dataset
+* `Revenue_Dashboard.png` — Dashboard preview
+* 'Raw_Data.xlsx` — Original dataset
 * `Cleaned_Data.xlsx` — Cleaned dataset
 
 ## 🎯 Goal
