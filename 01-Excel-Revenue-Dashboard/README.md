@@ -32,11 +32,11 @@ An Excel-based data analytics project that transforms **raw data into clean data
 **Microsoft Excel • Data Cleaning • Pivot Tables • Data Analysis • Data Visualization • Dashboard Development**
 
 ## 📁 Project Files
+* `Revenue_Dashboard.xlsx` — Final Excel dashboard
+* `Excel_Revenue_Dashboard.pdf` — Complete project documentation
+* `Revenue_Dashboard.png` — Dashboard preview
 * `Raw_Data.xlsx` — Original dataset
 * `Cleaned_Data.xlsx` — Cleaned dataset
-* `Revenue_Dashboard.xlsx` — Final Excel dashboard
-* `Revenue_Dashboard.png` — Dashboard preview
-* `Excel_Revenue_Dashboard.pdf` — Complete project documentation
 ## 🎯 Goal
 
 To demonstrate a practical **Excel data analytics workflow** from raw data to business insights.
